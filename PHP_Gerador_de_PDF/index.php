@@ -1,5 +1,7 @@
 <?php
 
+// Para instalar pelo terminal->   composer require dompdf/dompdf
+
 require 'vendor/autoload.php';
 
 use Dompdf\Dompdf;
